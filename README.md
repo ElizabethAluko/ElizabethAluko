@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElizabethAluko
 - 👀 I’m interested in AWS machine learning and software development
 - 🌱 I’m currently learning full stack software engineering at alx in conjuction with Holberton University.
-- 💞️ I’m looking to collaborate on projects that will improve my technical and collaborative skills.
+- 💞️ I’m looking to collaborate on projects that will solve real world problems and also improve my technical and collaborative skills.
 - 📫 How to reach me ...
 
 <!---
